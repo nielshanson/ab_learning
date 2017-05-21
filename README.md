@@ -1,2 +1,2 @@
 # ab_learning
-Sandbox for Agent-based learning
+Sandbox for agent-based learning
